@@ -1,2 +1,2 @@
 # delta-demo
-This repo is for practicing git hub.
+This repo is for practicing git hub
